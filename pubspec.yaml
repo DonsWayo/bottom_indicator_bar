@@ -1,8 +1,7 @@
 name: bottom_indicator_bar
-description: A new Flutter package project.
-version: 0.0.1
-author:
-homepage:
+description: A flutter bottom tab with indicator, similar to the bottom tab of facebook app .
+version: 1.0.0
+homepage: https://github.com/DonsWayo/bottom_indicator_bar
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
