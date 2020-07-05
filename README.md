@@ -2,6 +2,10 @@
 
 A flutter bottom tab with indicator, similar to the bottom tab of facebook app 
 
+
+![bottom_indicator_bar Gif](screenshot.gif "bottom_indicator_bar")
+
+
 ## Getting Started
 
 Add the dependency in `pubspec.yaml`:
