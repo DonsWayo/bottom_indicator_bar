@@ -5,7 +5,7 @@ class BottomIndicatorNavigationBarItem {
   final Color backgroundColor;
 
   BottomIndicatorNavigationBarItem({
-    @required this.icon,
+    required this.icon,
     this.backgroundColor = Colors.white,
   });
 }

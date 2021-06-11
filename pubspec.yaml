@@ -1,10 +1,10 @@
 name: bottom_indicator_bar
 description: A flutter bottom tab with indicator, similar to the bottom tab of facebook app .
-version: 1.0.0
+version: 2.0.0
 homepage: https://github.com/DonsWayo/bottom_indicator_bar
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
